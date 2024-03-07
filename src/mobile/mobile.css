@@ -1,0 +1,34 @@
+
+
+.colores{
+    background-image: radial-gradient(circle at -18.3% 68.3%, #00ffff 0, #0a9ef6 50%, #073051 100%);
+  }
+
+  .blance{
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+  }
+  .blanco{
+    text-align: center;
+    color: #fff;
+   font-size: 1.8rem;
+  }
+
+  .inve{
+ 
+    color: #fff;
+    text-align: center;
+     
+  }
+  .seleccionar{
+    color: black;
+    text-decoration: none;
+    transition: all ease 3s;
+
+  }
+  .seleccionar:hover{
+   background-color: rgb(116, 115, 115);
+  
+  }
+

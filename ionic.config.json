@@ -1,0 +1,7 @@
+{
+  "name": "SISCAP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
